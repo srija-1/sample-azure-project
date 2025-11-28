@@ -1,0 +1,25 @@
+{
+  "name": "sample-azure-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srija-1/sample-azure-project.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srija-1/sample-azure-project/issues"
+  },
+  "homepage": "https://github.com/srija-1/sample-azure-project#readme",
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "dotenv-azure": "^2.0.0",
+    "express": "^5.1.0"
+  }
+}
